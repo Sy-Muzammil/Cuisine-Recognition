@@ -1,4 +1,4 @@
-# deepfood
+# Cuisine-Recognition
 Classify images of food items using Deep Learning (CNN)
 
 ## Simple Non Deep learning based approaches
